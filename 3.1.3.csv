@@ -1,0 +1,45 @@
+Name;Gender;Age;Wage;Occupation;City;Experience
+Anna Ivanova;Female;28;3500;Data Scientist;Moscow;3
+Boris Petrov;;45;5000;Engineer;Saint Petersburg;20
+Viktor Sidorov;Male;33;;Software Developer;Novosibirsk;10
+Elena Smirnova;Female;27;3800;;Kazan;4
+Sergey Orlov;Male;;4800;Project Manager;Moscow;18
+Maria Volkova;Female;35;4600;HR Manager;;12
+Ivan Kuznetsov;Male;29;;Marketing Specialist;Samara;
+Olga Pavlova;Female;;5200;Product Manager;Ekaterinburg;15
+Dmitry Lebedev;;32;4300;;Moscow;9
+Tatiana Vlasova;Female;;3700;Business Analyst;;8
+Alexey Goncharov;Male;42;5100;;Saint Petersburg;19
+Nina Morozova;Female;25;3400;UX Designer;Ufa;
+Andrey Frolov;;36;;DevOps Engineer;Krasnoyarsk;14
+Svetlana Bogdanova;;34;4700;QA Engineer;;13
+Kirill Mikhailov;Male;41;5300;CTO;;21
+Ekaterina Borisova;;30;4000;SEO Specialist;Chelyabinsk;6
+Mikhail Pavlov;;28;3900;Full Stack Developer;;5
+Yulia Efimova;;26;3600;Copywriter;Moscow;3
+Roman Zaitsev;Male;39;4900;;Saint Petersburg;17
+Polina Stepanova;;33;4400;Data Engineer;;10
+Ilya Fedorov;Male;37;4600;;Yaroslavl;16
+Natalia Nikolaeva;;29;3800;;Irkutsk;6
+Oleg Grigorev;Male;43;5400;Chief Marketing Officer;Moscow;
+Elizaveta Zueva;Female;;3500;;Saint Petersburg;4
+Yuri Safonov;;34;4700;IT Auditor;Kazan;
+Irina Sokolova;Female;30;;Brand Manager;Samara;7
+Maxim Prokhorov;Male;31;4300;;Ekaterinburg;
+Olga Belova;Female;35;5000;Senior Accountant;;11
+Vladimir Egorov;Male;;5100;Supply Chain Manager;Nizhny Novgorod;20
+Alena Krylova;;24;;Junior Software Developer;Novosibirsk;1
+Anton Romanov;Male;45;;CFO;Rostov-on-Don;23
+Elena Grishina;Female;33;4400;;Krasnoyarsk;
+Sergey Matveev;Male;37;4900;;Omsk;15
+Daria Abramova;;27;;Data Visualization Specialist;;4
+Victor Kuzmin;Male;38;5100;;Kazan;17
+Anna Popova;;32;4500;Scrum Master;Voronezh;9
+Evgeny Karpov;;41;;VP of Engineering;;21
+Irina Davydova;Female;29;3900;;Chelyabinsk;6
+Andrey Zaitsev;;36;4600;Security Analyst;Samara;
+Natalia Romanova;;34;;Operations Analyst;Moscow;11
+Igor Semenov;Male;42;;IT Director;;19
+Tatiana Grigorova;;28;3400;;Nizhny Novgorod;2
+Alexandr Frolov;Male;44;;Logistics Manager;Ekaterinburg;
+Maria Orlova;Female;26;3700;;Krasnodar;
